@@ -1,6 +1,6 @@
 # 🧠 QueryHub
 
-**QueryHub** is an AI-powered question-and-answer app that lets users ask anything and receive intelligent responses based on up-to-date online resources. Built with a **Flutter** frontend and a **FastAPI** backend, it integrates with the **Gemini API** to deliver rich, context-aware answers in real time.
+**QueryHub** is an AI-powered question-and-answer app that lets users ask anything and receive intelligent responses based on up-to-date online resources. Built with a Flutter frontend and a FastAPIbackend, it integrates with the Gemini API to deliver rich, context-aware answers in real time.
 
 ---
 
